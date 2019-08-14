@@ -1,0 +1,2 @@
+In nearly every instance of testing, sigmoid was the clear winner for accuracy for this dataset, with tanh following slightly behind. 
+This makes sense, sigmoid's range is between 0 and 1 which is exactly the range that the dataset provided.
