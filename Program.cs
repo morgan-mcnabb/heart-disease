@@ -163,6 +163,9 @@ namespace HeartDisease
                     case 5:
                         Print(Tanh, Sigmoid, Relu);
                         break;
+                        
+                    case 6:
+                        break;
 
                     default:
                         Console.WriteLine("Unknown Command");
